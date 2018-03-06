@@ -57,3 +57,8 @@ typings/
 # dotenv environment variables file
 .env
 
+# generated files
+dist/*
+
+# OSX bullshit
+.DS_Store
